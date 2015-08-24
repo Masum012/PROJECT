@@ -1,0 +1,44 @@
+1st year:
+1. Calculus one https://www.coursera.org/learn/calculus1/outline
+2. Introduction to Logic https://www.coursera.org/course/intrologic
+3. Programming for everybody https://www.coursera.org/course/pythonlearn
+4. Calculus: Single Variable https://www.coursera.org/course/calcsing
+5. PreCalculus https://www.coursera.org/course/precalculus
+6. Intermidiate Algebra https://www.coursera.org/course/algebra
+7. Computer 101 https://www.coursera.org/course/cs101
+
+
+2nd year:
+1. The hardware/software interface https://www.coursera.org/course/hwswinterface
+2. Algorithm: Design and Analysis, Part 2 https://www.coursera.org/course/algo2
+3. Analysis of Algorithms https://www.coursera.org/course/aofa
+4. Algorithms, part II https://www.coursera.org/course/algs4partII
+5. Introduction to Mathematical Thinking https://www.coursera.org/course/maththink
+6. Algorithm: Design and Analysis, Part 1 https://www.coursera.org/course/algo
+7. Algorithms, Part I https://www.coursera.org/course/algs4partI
+8. Coding Matrix: Linear Algebra through Computer Science Application https://www.coursera.org/course/matrix
+ 
+3rd year:
+1. Computer Architecture https://www.coursera.org/course/comparch
+2. Analytic Combinatorics https://www.coursera.org/course/ac
+3. Compilers https://www.coursera.org/course/compilers
+4. Probabilistic Graphical Models https://www.coursera.org/course/pgm
+5. Automata https://www.coursera.org/course/automata
+6. General Game Playing https://www.coursera.org/course/ggp
+7. Introduction to Database https://www.coursera.org/course/db
+
+
+final year:
+1. Artificial Intelligence Planning https://www.coursera.org/course/aiplan
+2. Neural Networks for Machine Learning https://www.coursera.org/course/neuralnets
+3. Natural Language Processing https://www.coursera.org/course/nlangp
+4. Game Theory https://www.coursera.org/course/gametheory
+5. Game Theory II: Advanced Applications https://www.coursera.org/course/gametheory2
+6. Linear and Discrete Optimization https://www.coursera.org/course/linearopt
+7. Fundamentals of Digital Image and Video Processing https://www.coursera.org/course/digital
+8. Digital Signal Processing https://www.coursera.org/course/dsp
+9. Machine Learning https://www.coursera.org/course/algs4partI
+10. Natural Language Processing https://www.coursera.org/course/nlp
+11. Discrete Optimization https://www.coursera.org/course/optimization
+
+
